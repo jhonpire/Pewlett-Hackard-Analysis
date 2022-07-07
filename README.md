@@ -8,7 +8,7 @@
 
 
 # Employees retiring by title
-    Pewlet Hackard is a large company with many departments and employees, invitably there will be employees retiring from vearious positions. Therefor during Our Analysis we discovered there will be retirees from 7 different titles for that including:
+    Pewlet Hackard is a large company with many departments and employees, inevitably there will be employees retiring from vearious positions. Therefor during Our Analysis we discovered there will be retirees from 7 different titles for that including:
         *Engineer
         *Senior Staff
         *Staff
