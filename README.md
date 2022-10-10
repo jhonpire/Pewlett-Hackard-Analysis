@@ -20,3 +20,9 @@
 # Number of retirees eligible for mentorship program
     During the analysis we discovered that amongst the retirees there will be many employees eligible for mentorship programs, which would allow for a smoother transition for those leaving and those joining the team. The mentors would pass on the knowledge of many years of service and help the company. 
     Through the analysis we discovered that there are 1,549 employees that meet the criteria to become mentors for the newer Generation of Pewlet Hackard professionals.  
+
+
+# Database Tables Diagram
+    When creating the analysis of the EMployee Data we decided to create a set of Tables to store the Data in PostgreSQL and create relationships using Keys and Foreing Keys between the tables in the Database.
+
+![Database Schema](https://github.com/jhonpire/Pewlett-Hackard-Analysis/blob/main/QuickDBD-export.png)
